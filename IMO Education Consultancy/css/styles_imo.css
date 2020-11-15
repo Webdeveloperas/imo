@@ -1,0 +1,53 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80);
+  background-size: cover;
+  background-position: center;
+  font-family: Lato;
+  color: white;
+  opacity: 0.9;
+}
+
+html {
+  height: 100%;
+}
+
+#content {
+  border: solid;
+  bordr
+  text-align: left;
+  padding-top: 10%;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 5rem;
+}
+
+hr {
+  width: 500px;
+  border-top: 3px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.navbar {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+}
+
+.content {
+
+}
+
+#get-touch {
+  text-align: center;
+}
+
+#contact-us {
+  margin-top: 500px;
+  padding-top: 20px;
+  text-align: center;
+  background-color: rgb(183, 73, 73, 1);
+}
