@@ -37,12 +37,8 @@ hr {
   font-weight: 500;
 }
 
-.content {
-
-}
-
-#get-touch {
-  text-align: center;
+p {
+  padding-top: 20px;
 }
 
 #contact-us {
